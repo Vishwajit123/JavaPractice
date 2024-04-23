@@ -14,7 +14,7 @@ public class arraydeme {
 		else if(a[i]>sl && a[i]!=l)
 			sl=a[i];
 	}
-	System.out.println("Second Largest Number is"+sl);
+	System.out.println("Second Biggest Number is"+sl);
 	}
 }
 
